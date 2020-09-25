@@ -41,6 +41,3 @@ Describe any challenges encountered while building the app.
 
 <img src="http://g.recordit.co/POf1xHVag8.gif">
 <br>
-
-### Notes
-Describe any challenges encountered while building the app.
